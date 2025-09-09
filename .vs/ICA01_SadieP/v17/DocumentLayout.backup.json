@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kpretzlaff1\\source\\repos\\ICA01_SadieP\\",
+  "WorkspaceRootPath": "C:\\Users\\kpretzlaff1\\source\\repos\\sadie256\\CMPE-1666-ICA01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01F4E787-1F30-4D7C-8DFE-5641FC3423BE}|ICA01_SadieP.csproj|c:\\users\\kpretzlaff1\\source\\repos\\ica01_sadiep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F4E787-1F30-4D7C-8DFE-5641FC3423BE}|ICA01_SadieP.csproj|c:\\users\\kpretzlaff1\\source\\repos\\sadie256\\cmpe-1666-ica01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F4E787-1F30-4D7C-8DFE-5641FC3423BE}|ICA01_SadieP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kpretzlaff1\\source\\repos\\ICA01_SadieP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kpretzlaff1\\source\\repos\\sadie256\\CMPE-1666-ICA01\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kpretzlaff1\\source\\repos\\ICA01_SadieP\\Program.cs",
+              "ToolTip": "C:\\Users\\kpretzlaff1\\source\\repos\\sadie256\\CMPE-1666-ICA01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T21:13:30.802Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
